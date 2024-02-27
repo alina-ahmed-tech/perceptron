@@ -17,7 +17,7 @@ Graph: The decision boundary was being drawn and re-drawn over and over again as
 Model Output classes: <br>
 The code was stuck in an infinite loop so did not get any values as I had to manually terminate. <br>
 Target (the correct) Output Classes:<br>
-<img width="125" alt="Screenshot 2024-02-27 at 01 06 03" src="https://github.com/alina-ahmed-tech/perceptron/assets/130942761/72fbdf98-8366-45aa-9c02-5a3a209e0764">
+<img width="125" alt="Screenshot 2024-02-27 at 01 06 03" src="https://github.com/alina-ahmed-tech/perceptron/assets/130942761/72fbdf98-8366-45aa-9c02-5a3a209e0764"><br>
 Conclusion: the model was unable to classify the data points.<br>
 ----------------- Perceptron 2 - non-linearly separable classification problem --------------------<br>
 Graph: <br>
@@ -31,7 +31,7 @@ Conclusion: the model incorrectly classified some of the data points.<br>
 ----------------- Perceptron 3 - linearly separable classification problem --------------------<br>
 Graph: <br>
 <img width="506" alt="Screenshot 2024-02-27 at 01 11 52" src="https://github.com/alina-ahmed-tech/perceptron/assets/130942761/d794e487-87cd-460c-ba85-ef93cea4ac73"><br>
-The 2 classes are not being correctly divided by the decision boundary drawn.<br>
+The 2 classes are being correctly divided by the decision boundary drawn.<br>
 Model Output classes: <br>
 <img width="256" alt="Screenshot 2024-02-27 at 01 12 56" src="https://github.com/alina-ahmed-tech/perceptron/assets/130942761/9cba1d06-88f3-4901-84e5-b159d3d91883"><br>
 Target (the correct) Output Classes:<br>
