@@ -13,8 +13,6 @@ net = configure(net,X,T);
 hold on
 linehandle = plotpc(net.IW{1},net.b{1});
 
-%Training the NN - updating weights and biases until sum squared error = 0
-%Look at the graph, the problem is not linearly seperable so need to exit the loop
 maxCount= 1000
 iterCount = 0;
 E = 1;
